@@ -12,7 +12,7 @@
 # so be careful to choose base word, but eventually,
 # you can tweak the script as desire.
 #
-# written by me and my pal, apin.
+# by me and my pal, apin.
 # 2021 January.
 #
 
