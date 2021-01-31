@@ -1,7 +1,7 @@
 #!/usr/bin/ruby
 
 #
-# Bismillahirrohmanirrohim.
+# Bismillahirrohmanirrohim
 #
 # simple script to mutates base word/s to varying mutations,
 # it is used to crack password with mutation based.
