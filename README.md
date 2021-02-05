@@ -10,4 +10,6 @@ by faisal and my pal, apin.
 
 
 # Real Proof of success crack
-![Screenshot](./Screenshot_2021-02-05_21-48-10.png)
+![Screenshot](./xScreenshot_2021-02-05_21-48-10.png)
+
+I prefer to erase the cracked base word, rather than causing problems later day
