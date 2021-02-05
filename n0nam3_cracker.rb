@@ -23,7 +23,7 @@ require "chronic"
 
 # just watch this part (these 2 global variable)
 $base_words = ["jogja"]
-$date = "" # "month date year", empty it as desire.
+$date = "" # "month date year", empty it as u like.
 
 class String
   def save!(filename)
